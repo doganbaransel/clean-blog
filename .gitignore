@@ -143,5 +143,7 @@ dist
 
 # Temporary Folders
 temp
+public
+views
 
 # End of https://www.toptal.com/developers/gitignore/api/node
